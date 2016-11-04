@@ -41,7 +41,7 @@ Unzip dataSet to /data directory
 
 4. Appropriately labeling the data set with descriptive variable names.
 
-This step was made in previos steps =) See 1.3, 2.2, 2.3.
+This step was made in previos steps See 1.3, 2.2, 2.3.
 
 5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject:
 
